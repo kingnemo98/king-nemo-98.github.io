@@ -1,0 +1,12 @@
+h1 {
+  font-size: 50px; font-family: monospace; border-radius: 10px; border: solid; border-color: black; text-align: center; width: 700px;
+}
+p {
+font-family: monospace;
+}
+body {
+  background-color: white;
+}
+.poopoo {
+  color: red;
+}

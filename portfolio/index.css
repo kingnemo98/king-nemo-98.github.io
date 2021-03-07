@@ -1,0 +1,20 @@
+h1 {
+  font-size: 50px; font-family: monospace; border-radius: 10px; border: solid; border-color: black; text-align: center; width: 700px;
+}
+
+p {
+font-family: monospace;
+}
+body {
+  background-color: lightCyan;
+}
+
+img {
+  border-radius: 20px; border: solid;
+}
+.poopoo {
+  color: red;
+}
+.shit {
+  color: darkBlue;
+}
